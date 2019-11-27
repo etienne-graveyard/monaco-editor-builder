@@ -18,7 +18,8 @@
     "monaco-editor-builder": "./bin/monaco-editor-builder.js"
   },
   "scripts": {
-    "pub": "np"
+    "pub": "np",
+    "test": "echo 'noop'"
   },
   "dependencies": {
     "@types/fs-extra": "^8.0.1",
