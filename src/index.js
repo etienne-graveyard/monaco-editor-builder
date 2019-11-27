@@ -23,7 +23,7 @@ async function run(argv) {
     "--outdir": "public/monaco-workers",
     "--public": "public",
     ...arg(spec, {
-      argv: argv.slice(2)
+      argv: argv.slice(1)
     })
   };
 
