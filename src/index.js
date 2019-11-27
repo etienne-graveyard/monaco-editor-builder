@@ -19,7 +19,7 @@ async function run(argv) {
   console.log(`Found monaco-editor in ${monacoPath}`);
 
   const args = {
-    "--manifest": "src/workerManifest.json",
+    "--manifest": "src/monacoWorkerManifest.json",
     "--outdir": "public/monaco-workers",
     "--public": "public",
     ...arg(spec, {
