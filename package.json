@@ -1,6 +1,6 @@
 {
   "name": "monaco-editor-builder",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A script to build monaco-editor workers using parcel",
   "keywords": [],
   "homepage": "https://github.com/etienne-dldc/monaco-editor-builder#readme",
