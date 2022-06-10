@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "arg": "^5.0.0",
-    "fs-extra": "^9.1.0",
+    "fs-extra": "^10.0.0",
     "klaw-sync": "^6.0.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.2.1"
